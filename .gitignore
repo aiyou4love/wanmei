@@ -1,1 +1,8 @@
 /develop/client
+/binary/windows/client/aspect
+/binary/windows/client/asset
+/binary/windows/client/download
+/binary/windows/client/log
+/binary/windows/client/storage
+/binary/windows/client/update
+/binary/windows/client/autoup.exe
