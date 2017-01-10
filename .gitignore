@@ -6,3 +6,12 @@
 /binary/windows/client/storage
 /binary/windows/client/update
 /binary/windows/client/autoup.exe
+/develop/agent
+/develop/game
+/develop/social
+/binary/windows/agent/aspect
+/binary/windows/agent/autoup.exe
+/binary/windows/game/aspect
+/binary/windows/game/autoup.exe
+/binary/windows/social/aspect
+/binary/windows/social/autoup.exe
